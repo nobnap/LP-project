@@ -1,2 +1,3 @@
-# LP-project
-Projeto da cadeira Lógica para Programação (LP)
+# Projeto de Lógica para Programação (LP)
+
+*Nota final:* 18.92/20
